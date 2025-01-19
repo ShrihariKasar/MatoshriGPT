@@ -1,0 +1,582 @@
+[
+    {
+        "id": 1,
+        "prompt": "What is 'Useful Links'?",
+        "completion": "Useful Links provides access to AICTE, UGC, and affiliated portals for admissions, courses, and compliance details."
+    },
+    {
+        "id": 2,
+        "prompt": "What is 'Library'?",
+        "completion": "The Library offers a rich collection of books, e-resources, and digital journals to support academic learning and research."
+    },
+    {
+        "id": 3,
+        "prompt": "What is 'Admission Enquiry'?",
+        "completion": "Admission Enquiry helps candidates explore programs, eligibility, and admission procedures. Contact the college for more information."
+    },
+    {
+        "id": 4,
+        "prompt": "What is 'Feedback'?",
+        "completion": "Feedback provides a mechanism for students and staff to share suggestions and improve the college's quality and services."
+    },
+    {
+        "id": 5,
+        "prompt": "What is 'Online Admission'?",
+        "completion": "Online Admission is a portal for applying to courses digitally, simplifying the application and submission process."
+    },
+    {
+        "id": 6,
+        "prompt": "What is 'Matoshri Knowledge Base'?",
+        "completion": "The Matoshri Knowledge Base is a resource hub for academic materials, research publications, and guidelines."
+    },
+    {
+        "id": 7,
+        "prompt": "What is 'Matoshri Test App'?",
+        "completion": "The Matoshri Test App facilitates online assessments and practice tests for students, ensuring seamless learning evaluation."
+    },
+    {
+        "id": 8,
+        "prompt": "What is 'Matoshri Education Society's'?",
+        "completion": "Matoshri Education Society manages institutions focusing on quality education in engineering, pharmacy, and other disciplines."
+    },
+    {
+        "id": 9,
+        "prompt": "What is 'Matoshri College of Engineering & Research Centre, Eklahare, Nashik'?",
+        "completion": "Matoshri College offers undergraduate and postgraduate engineering programs with a focus on innovation and quality education."
+    },
+    {
+        "id": 10,
+        "prompt": "What is 'Approved by All India Council for Technical Education, New Delhi Affiliated to Savitribai Phule Pune University, College Code:5177'?",
+        "completion": "The college is AICTE-approved and affiliated with SPPU under code 5177, adhering to technical education standards."
+    },
+    {
+        "id": 11,
+        "prompt": "What is 'MCOERC'?",
+        "completion": "MCOERC refers to Matoshri College of Engineering & Research Centre, known for its excellence in technical education."
+    },
+    {
+        "id": 12,
+        "prompt": "What is 'Home'?",
+        "completion": "The Home section provides an overview of the college, including news, announcements, and quick links."
+    },
+    {
+        "id": 13,
+        "prompt": "What is 'About'?",
+        "completion": "The About section details the college's history, mission, vision, and contributions to technical education."
+    },
+    {
+        "id": 14,
+        "prompt": "What is 'Vision & Mission'?",
+        "completion": "Vision & Mission outlines the college's commitment to quality education, research, and professional development."
+    },
+    {
+        "id": 15,
+        "prompt": "What is 'Secretary's Desk'?",
+        "completion": "The Secretary's Desk shares insights from the management on the institution's goals and future roadmap."
+    },
+    {
+        "id": 16,
+        "prompt": "What is 'Director's Desk'?",
+        "completion": "The Director's Desk highlights the leadership's perspective on education, research, and innovation at the institution."
+    },
+    {
+        "id": 17,
+        "prompt": "What is 'Dean Academic's Desk'?",
+        "completion": "Dean Academic's Desk shares updates on academic policies, achievements, and faculty development initiatives."
+    },
+    {
+        "id": 18,
+        "prompt": "What is 'CoE's Desk'?",
+        "completion": "CoE's Desk provides information about examination-related updates and the academic evaluation framework."
+    },
+    {
+        "id": 19,
+        "prompt": "What is 'Governing Body'?",
+        "completion": "The Governing Body oversees the institution's management, ensuring compliance with educational standards."
+    },
+    {
+        "id": 20,
+        "prompt": "What is 'Academic Council'?",
+        "completion": "The Academic Council formulates and monitors academic programs and curricula to maintain educational excellence."
+    },
+    {
+        "id": 21,
+        "prompt": "What is 'Board of Studies'?",
+        "completion": "The Board of Studies designs and updates course content to align with industry needs and academic trends."
+    },
+    {
+        "id": 22,
+        "prompt": "What is 'Finance Committee'?",
+        "completion": "The Finance Committee manages the financial planning and budgeting for the institution's development."
+    },
+    {
+        "id": 23,
+        "prompt": "What is 'Examination Cell'?",
+        "completion": "The Examination Cell handles scheduling, evaluation, and the announcement of results for all programs."
+    },
+    {
+        "id": 24,
+        "prompt": "What is 'Grievance Redressal'?",
+        "completion": "Grievance Redressal addresses student and staff complaints to ensure a fair and supportive environment."
+    },
+    {
+        "id": 25,
+        "prompt": "What is 'Governance'?",
+        "completion": "Governance encompasses the policies and frameworks guiding the institution's operations and decision-making."
+    },
+    {
+        "id": 26,
+        "prompt": "What is 'AICTE & UGC Permissions'?",
+        "completion": "AICTE & UGC Permissions confirm the institution's compliance with technical and general education standards."
+    },
+    {
+        "id": 27,
+        "prompt": "What is 'University Affiliation'?",
+        "completion": "The college is affiliated with Savitribai Phule Pune University, offering programs approved by the university."
+    },
+    {
+        "id": 28,
+        "prompt": "What is 'Computer Engineering'?",
+        "completion": "The Computer Engineering department offers specialized courses in software development, AI, and IT systems."
+    },
+    {
+        "id": 29,
+        "prompt": "What is 'Information Technology'?",
+        "completion": "The IT department focuses on modern technologies like data analytics, cloud computing, and cybersecurity."
+    },
+    {
+        "id": 30,
+        "prompt": "What is 'Civil Engineering'?",
+        "completion": "Civil Engineering emphasizes sustainable construction, urban planning, and infrastructure development."
+    },
+    {
+        "id": 31,
+        "prompt": "What is 'Mechanical Engineering'?",
+        "completion": "Mechanical Engineering provides insights into robotics, thermal engineering, and manufacturing technologies."
+    },
+    {
+        "id": 32,
+        "prompt": "What is 'Electronics & Telecommunication'?",
+        "completion": "This department offers programs in communication systems, VLSI, and signal processing."
+    },
+    {
+        "id": 33,
+        "prompt": "What is 'Admissions'?",
+        "completion": "Admissions include eligibility criteria, the application process, and seat allocation for various courses."
+    },
+        {
+            "id": 34,
+            "prompt": "What is 'Programs Offered'?",
+            "completion": "Programs Offered details undergraduate and postgraduate courses in various engineering disciplines and specializations."
+        },
+        {
+            "id": 35,
+            "prompt": "What is 'Placements'?",
+            "completion": "Placements include details about campus recruitment, companies visiting, and training provided to enhance employability."
+        },
+        {
+            "id": 36,
+            "prompt": "What is 'Research & Development'?",
+            "completion": "Research & Development focuses on innovative projects, funding opportunities, and collaborations with industries."
+        },
+        {
+            "id": 37,
+            "prompt": "What is 'Campus Facilities'?",
+            "completion": "Campus Facilities include laboratories, hostels, sports areas, and amenities that support holistic student development."
+        },
+        {
+            "id": 38,
+            "prompt": "What is 'Alumni Network'?",
+            "completion": "The Alumni Network connects past students to foster professional growth, mentorship, and collaboration opportunities."
+        },
+        {
+            "id": 39,
+            "prompt": "What is 'Anti-Ragging Cell'?",
+            "completion": "The Anti-Ragging Cell ensures a safe and respectful environment by addressing and preventing any form of harassment."
+        },
+        {
+            "id": 40,
+            "prompt": "What is 'Women Empowerment Cell'?",
+            "completion": "The Women Empowerment Cell promotes gender equality through events, counseling, and awareness programs."
+        },
+        {
+            "id": 41,
+            "prompt": "What is 'National Service Scheme (NSS)'?",
+            "completion": "NSS organizes community service and social responsibility activities to develop leadership and teamwork skills."
+        },
+        {
+            "id": 42,
+            "prompt": "What is 'Entrepreneurship Development Cell (EDC)'?",
+            "completion": "EDC fosters innovation and entrepreneurial skills through training programs, workshops, and startup incubation support."
+        },
+        {
+            "id": 43,
+            "prompt": "What is 'Student Clubs'?",
+            "completion": "Student Clubs include technical, cultural, and recreational groups to enhance skills and social engagement."
+        },
+        {
+            "id": 44,
+            "prompt": "What is 'Industry Collaboration'?",
+            "completion": "Industry Collaboration ensures skill enhancement through internships, MoUs, and guest lectures with leading firms."
+        },
+        {
+            "id": 45,
+            "prompt": "What is 'Workshops & Seminars'?",
+            "completion": "Workshops & Seminars provide opportunities for practical learning and exposure to the latest industry trends."
+        },
+        {
+            "id": 46,
+            "prompt": "What is 'Faculty Development Programs (FDP)'?",
+            "completion": "FDP aims to enhance teaching methodologies and subject knowledge of faculty through training sessions."
+        },
+        {
+            "id": 47,
+            "prompt": "What is 'Green Campus Initiatives'?",
+            "completion": "Green Campus Initiatives promote sustainability through eco-friendly practices and awareness programs on campus."
+        },
+        {
+            "id": 48,
+            "prompt": "What is 'Annual Events'?",
+            "completion": "Annual Events include technical fests, cultural programs, and sports competitions fostering talent and creativity."
+        },
+        {
+            "id": 49,
+            "prompt": "What is 'Contact Us'?",
+            "completion": "Contact Us provides information about the college's address, phone numbers, and email for communication."
+        },
+        {
+            "id": 50,
+            "prompt": "What is 'Student Corner'?",
+            "completion": "The Student Corner offers resources like timetables, circulars, and announcements for student convenience."
+        },    
+            {
+                "id": 51,
+                "prompt": "What is 'Administration'?",
+                "completion": "Administration refers to the management and organization of resources, personnel, and operations within an institution or organization. It encompasses planning, directing, and overseeing activities to achieve the institution's goals."
+            },
+            {
+                "id": 52,
+                "prompt": "What is 'Training & Placement'?",
+                "completion": "Training & Placement refers to the process by which educational institutions assist students in acquiring skills relevant to their field and then facilitate their placement into job roles through campus recruitment drives."
+            },
+            {
+                "id": 53,
+                "prompt": "What is 'Alumni'?",
+                "completion": "Alumni are former students of an institution who maintain a connection to their alma mater. They are often involved in supporting the institution, networking, and mentoring current students."
+            },
+            {
+                "id": 54,
+                "prompt": "What is 'Facilities'?",
+                "completion": "Facilities refer to the physical infrastructure, resources, and amenities available within an institution or organization to support its operations, including classrooms, labs, sports areas, and other services."
+            },
+            {
+                "id": 55,
+                "prompt": "What is 'News & Events'?",
+                "completion": "News & Events refer to the updates, activities, and happenings related to an institution or organization. It includes information on upcoming programs, seminars, workshops, and other significant occurrences."
+            },
+            {
+                "id": 56,
+                "prompt": "What is 'News Letters'?",
+                "completion": "Newsletters are periodic publications issued by an institution or organization to keep its members informed about recent developments, achievements, and upcoming events."
+            },
+            {
+                "id": 57,
+                "prompt": "What is 'Contact Us'?",
+                "completion": "The 'Contact Us' section provides information about how to get in touch with the institution or organization, including phone numbers, email addresses, and office locations."
+            },
+            {
+                "id": 58,
+                "prompt": "What is 'Admission Enquiry'?",
+                "completion": "Admission Enquiry refers to the process by which prospective students inquire about the admission procedure, eligibility, and other details regarding joining a course or program at the institution."
+            },
+            {
+                "id": 59,
+                "prompt": "What is 'Admissions are Open for the Academic Year 2025–26, for B.Tech. , M.Tech. & MCA'?",
+                "completion": "This announcement informs prospective students that the admission process for various undergraduate and postgraduate programs like B.Tech, M.Tech, and MCA is open for the academic year 2025-26."
+            },
+            {
+                "id": 60,
+                "prompt": "What is 'Admission Enquiry'?",
+                "completion": "Admission Enquiry refers to the process by which prospective students inquire about the admission procedure, eligibility, and other details regarding joining a course or program at the institution."
+            },
+            {
+                "id": 61,
+                "prompt": "What is 'Matoshri College of Engineering & Research Centre, Eklahare, Nashik'?",
+                "completion": "Matoshri College of Engineering & Research Centre, located in Eklahare, Nashik, offers undergraduate and postgraduate technical programs. Established in 2008, the institute aims to provide quality technical education and promote research culture."
+            },
+            {
+                "id": 62,
+                "prompt": "What is 'Matoshri College of Engineering & Research Centre was established in the year 2008 in rural area at Eklahare near Odhagaon under the Matoshri Education Society, Yeola. The core objective of the institute is to provide the quality technical education for the masses to uplift the living standard of the society. Institute offers four year degree courses in Computer Engineering, Electronics and Telecommunication Engineering, Information Technology, Mechanical Engineering, Civil Engineering, Electrical Engineering, and Artificial Intelligence and Data Science. The institute runs the two year PG programmes in Computer Engineering, Electronics and Telecommunication Engineering, Mechanical Engineering, Civil Engineering, and Electrical Engineering to promote the research culture. To imbibe the research culture among the students and faculty, institute has established the research centers in Computer Engineering, Electronics and Telecommunication Engineering and Mechanical Engineering. These programmes are approved by All India Council of Technical Education (AICTE) and affiliated to Savitribai Phule Pune University, Pune. It has recognition of 2(F)/12(B) from University Grant Commission (UGC).'?",
+                "completion": "Matoshri College of Engineering & Research Centre, established in 2008 in Eklahare, Nashik, offers various undergraduate and postgraduate programs. It aims to uplift society through quality technical education and research culture. The institute is AICTE-approved and affiliated with Savitribai Phule Pune University."
+            },
+            {
+                "id": 63,
+                "prompt": "What is 'Read More'?",
+                "completion": "'Read More' typically refers to an option on a website or document allowing users to access additional content beyond a preview or summary."
+            },
+            {
+                "id": 64,
+                "prompt": "What is 'Vision'?",
+                "completion": "Vision refers to the long-term goals and aspirations of an institution, providing direction and purpose for its activities and development."
+            },
+            {
+                "id": 65,
+                "prompt": "What is 'To Establish Omnipotent Learning Centre Meeting the Standards to Evolve as a Lighthouse for the Society.'?",
+                "completion": "This statement represents an institution's vision to create a powerful learning center that meets high standards and becomes a guiding light for societal growth."
+            },
+            {
+                "id": 66,
+                "prompt": "What is 'Mission'?",
+                "completion": "Mission refers to the core purpose and values of an institution, describing its primary objectives and commitment towards fulfilling its vision."
+            },
+            {
+                "id": 67,
+                "prompt": "What is 'Notices'?",
+                "completion": "Notices are official announcements or communications distributed to inform individuals about important updates, rules, or changes."
+            },
+            {
+                "id": 68,
+                "prompt": "What is 'Notice regarding syllabus guidelines for backlog and improvement examination to be held in December 2020.'?",
+                "completion": "This notice provides syllabus guidelines for students who need to appear for backlog or improvement exams scheduled for December 2020."
+            },
+            {
+                "id": 69,
+                "prompt": "What is 'View Document'?",
+                "completion": "'View Document' refers to an option allowing users to open and read a specific document online or offline."
+            },
+            {
+                "id": 70,
+                "prompt": "What is 'SPPU has postponed all practical/oral/project/seminar exam for first semester academic year 2020-21 to second semester.'?",
+                "completion": "This notice informs that all practical, oral, project, and seminar exams for the first semester of the academic year 2020-21 have been rescheduled to the second semester."
+            },
+            {
+                "id": 71,
+                "prompt": "What is 'View Document'?",
+                "completion": "'View Document' refers to the option allowing users to access and read a specific document."
+            },
+            {
+                "id": 72,
+                "prompt": "What is 'Timetable For Class Improvement Online Examination of APR/MAY 2020'?",
+                "completion": "This timetable provides the schedule for class improvement exams conducted online for the April/May 2020 session."
+            },
+            {
+                "id": 73,
+                "prompt": "What is 'View Document'?",
+                "completion": "'View Document' provides access to view or read a specific document related to the subject or topic."
+            },
+            {
+                "id": 74,
+                "prompt": "What is 'SPPU Rules and Regulations for Honors and Minors Under the Faculty of Science and Technology Effective from July 2020 for academic year 2020-21'?",
+                "completion": "This document outlines the rules and regulations for pursuing honors and minors under the Faculty of Science and Technology at SPPU, effective from July 2020 for the academic year 2020-21."
+            },
+    {
+                "id": 75,
+                "prompt": "What is 'View Document'?",
+                "completion": "This prompt refers to a document that can be viewed, typically in a digital format like PDF or Word, containing relevant information."
+            },
+            {
+                "id": 76,
+                "prompt": "What is 'We are happy to inform all the faculty staff and students, that Engineering Library is now a registered member @(NDL) an initiative of MHRD, Govt. of India.'?",
+                "completion": "This announcement informs that the Engineering Library is now a registered member of the National Digital Library (NDL), which is an initiative by the Ministry of Human Resource Development (MHRD), Government of India."
+            },
+            {
+                "id": 78,
+                "prompt": "What is 'Examination Notification - 2021'?",
+                "completion": "This notification typically informs about upcoming examinations, including schedules, rules, and any changes relevant to the year 2021."
+            },
+            {
+                "id": 82,
+                "prompt": "What is 'Notices'?",
+                "completion": "Notices are formal announcements or communications, often used to convey important information or updates to a particular audience."
+            },
+            {
+                "id": 85,
+                "prompt": "What is 'Computer Engineering'?",
+                "completion": "Computer Engineering is a branch of engineering that integrates electrical engineering and computer science to develop computer hardware and software."
+            },
+            {
+                "id": 86,
+                "prompt": "What is 'B.E.'?",
+                "completion": "B.E. stands for Bachelor of Engineering, a professional undergraduate engineering degree awarded after completion of an engineering program."
+            },
+            {
+                "id": 87,
+                "prompt": "What is 'M.E.'?",
+                "completion": "M.E. stands for Master of Engineering, a graduate degree awarded in various engineering fields, usually pursued after a Bachelor of Engineering (B.E.) degree."
+            },
+            {
+                "id": 89,
+                "prompt": "What is 'Research and Development'?",
+                "completion": "Research and Development (R&D) involves activities related to the innovation, introduction, and improvement of products and processes through scientific and technological research."
+            },
+            {
+                "id": 90,
+                "prompt": "What is 'Research'?",
+                "completion": "Research is the systematic investigation and study aimed at discovering, interpreting, and revising facts, theories, or applications in various fields."
+            },
+            {
+                "id": 92,
+                "prompt": "What is 'Development'?",
+                "completion": "Development refers to the process of improving and refining processes, products, or services through innovation, changes, and implementations of new ideas."
+            },
+            {
+                "id": 95,
+                "prompt": "What is 'Library Services'?",
+                "completion": "Library services refer to the variety of resources and support provided by a library, such as access to books, journals, research materials, and study spaces."
+            },
+            {
+                "id": 96,
+                "prompt": "What is 'Research Articles'?",
+                "completion": "Research articles are scholarly papers that present the results of original research, often published in academic journals, and contribute to knowledge in a specific field."
+            },
+            {
+                "id": 97,
+                "prompt": "What is 'National Digital Library (NDL)'?",
+                "completion": "The National Digital Library (NDL) is an initiative by the Government of India to provide a digital repository of academic resources to students, faculty, and researchers."
+            },
+            {
+                "id": 99,
+                "prompt": "What is 'MHRD'?",
+                "completion": "MHRD stands for Ministry of Human Resource Development, the Indian government body responsible for education, including higher education, and the development of educational policies."
+            },
+            {
+                "id": 101,
+                "prompt": "What is 'Faculty'?",
+                "completion": "Faculty refers to the academic staff or professors in an educational institution who are responsible for teaching and guiding students in their learning."
+            },
+            {
+                "id": 102,
+                "prompt": "What is 'Student'?",
+                "completion": "A student is an individual enrolled in an educational institution to pursue studies in a particular subject or field."
+            },
+            {
+                "id": 104,
+                "prompt": "What is 'Engineering Library'?",
+                "completion": "The Engineering Library is a specialized library within an educational institution that provides resources and research materials related to engineering subjects."
+            },
+            {
+                "id": 105,
+                "prompt": "What is 'Examination'?",
+                "completion": "An examination is an official assessment of a student's knowledge or skills in a particular subject, typically conducted at the end of a course or program."
+            },
+            {
+                "id": 106,
+                "prompt": "What is 'B.Tech'?",
+                "completion": "B.Tech stands for Bachelor of Technology, an undergraduate academic degree in the field of engineering and technology."
+            },
+            {
+                "id": 107,
+                "prompt": "What is 'M.Tech'?",
+                "completion": "M.Tech stands for Master of Technology, a postgraduate academic degree in engineering and technology, pursued after completing a B.Tech or equivalent degree."
+            },
+            {
+                "id": 110,
+                "prompt": "What is 'Digital Library'?",
+                "completion": "A digital library is an online collection of digital objects such as texts, images, audio, and video files, made accessible to the public or specific users for research and educational purposes."
+            },
+            {
+                "id": 111,
+                "prompt": "What is 'Registered Member'?",
+                "completion": "A registered member refers to an individual or organization officially enrolled or signed up to access certain services, resources, or benefits provided by a library or institution."
+            },
+            {
+                "id": 113,
+                "prompt": "What is 'Engineering Subjects'?",
+                "completion": "Engineering subjects refer to academic disciplines within the field of engineering, such as electrical, civil, mechanical, computer science, and chemical engineering."
+            },
+            {
+                "id": 114,
+                "prompt": "What is 'Student Portal'?",
+                "completion": "A student portal is an online platform where students can access academic information, class schedules, grades, and other important resources provided by the educational institution."
+            },
+            {
+                "id": 115,
+                "prompt": "What is 'Faculty Staff'?",
+                "completion": "Faculty staff refers to the group of academic personnel, such as professors, lecturers, and researchers, working in an educational institution."
+            },        
+            {
+                    "id": 116,
+                    "prompt": "What is 'Available Scholarship'?",
+                    "completion": "An available scholarship is a financial award offered to students to support their education. It can be based on merit, need, or other criteria set by the institution or scholarship provider."
+                },
+                {
+                    "id": 117,
+                    "prompt": "What is 'Received Scholarship'?",
+                    "completion": "A received scholarship refers to a financial award that a student has been granted to assist with their academic expenses. It is typically based on eligibility criteria and is received by the student after the application process."
+                },
+                {
+                    "id": 118,
+                    "prompt": "What is 'Equal Opportunity Center'?",
+                    "completion": "An Equal Opportunity Center is an institution or facility dedicated to providing equal access to education and resources, promoting fairness and non-discrimination for all students, regardless of their background."
+                },
+                {
+                    "id": 119,
+                    "prompt": "What is 'NIRF'?",
+                    "completion": "NIRF stands for the National Institutional Ranking Framework, an initiative by the Ministry of Education, Government of India, which ranks educational institutions in India based on various parameters."
+                },
+                {
+                    "id": 120,
+                    "prompt": "What is 'College Development Plan'?",
+                    "completion": "A College Development Plan is a strategic plan developed by an institution to outline its growth, infrastructure development, academic programs, and resource allocation over a specified period."
+                },
+                {
+                    "id": 121,
+                    "prompt": "What is 'Governing Body'?",
+                    "completion": "The Governing Body of an institution is the highest decision-making body, responsible for overseeing its operations, policies, and strategic direction."
+                },
+                {
+                    "id": 122,
+                    "prompt": "What is 'College Development Committee'?",
+                    "completion": "The College Development Committee is a group formed within an educational institution to assess and implement developmental activities and improvements to the college infrastructure and academic programs."
+                },
+                {
+                    "id": 123,
+                    "prompt": "What is 'College Grievance Redressal Cell'?",
+                    "completion": "The College Grievance Redressal Cell is an office or committee within an institution that addresses complaints and grievances from students and staff to ensure a fair and supportive environment."
+                },
+                {
+                    "id": 124,
+                    "prompt": "What is 'Institute Academic Advisory Committee'?",
+                    "completion": "The Institute Academic Advisory Committee is a body of academic experts and faculty members that advises on academic strategies, curriculum updates, and research development within an institution."
+                },
+                {
+                    "id": 125,
+                    "prompt": "What is 'Anti Ragging Cell'?",
+                    "completion": "The Anti Ragging Cell is a committee or office in educational institutions dedicated to preventing and addressing incidents of ragging or bullying among students."
+                },
+                {
+                    "id": 126,
+                    "prompt": "What is 'Women's Grievance Cell'?",
+                    "completion": "The Women's Grievance Cell is a designated committee within an institution to address issues related to women students or staff, ensuring a safe and respectful environment."
+                },
+                {
+                    "id": 127,
+                    "prompt": "What is 'SC/ ST Committee'?",
+                    "completion": "The SC/ST Committee is a body within educational institutions aimed at promoting welfare and addressing issues related to students from Scheduled Castes (SC) and Scheduled Tribes (ST) communities."
+                },
+                {
+                    "id": 128,
+                    "prompt": "What is 'Engineering Workshop'?",
+                    "completion": "An Engineering Workshop is a practical learning environment within an institution where students engage in hands-on training and projects related to various engineering disciplines."
+                },
+                {
+                    "id": 129,
+                    "prompt": "What is 'Service Rules and Regulations'?",
+                    "completion": "Service Rules and Regulations refer to the set of guidelines and policies that govern the conduct, responsibilities, and benefits of employees within an institution."
+                },
+                {
+                    "id": 130,
+                    "prompt": "What is 'IIC'?",
+                    "completion": "IIC stands for Institution's Innovation Council, a body established in educational institutions to promote innovation and entrepreneurship among students."
+                },
+                {
+                    "id": 131,
+                    "prompt": "What is 'Matoshri Education Society'?",
+                    "completion": "Matoshri Education Society is an educational institution focused on providing quality education through various colleges and schools under its management."
+                },
+                {
+                    "id": 132,
+                    "prompt": "What is '© 2025 Matoshri College of Engineering and Research Centre'?",
+                    "completion": "© 2025 Matoshri College of Engineering and Research Centre represents the copyright statement for the official website or materials of Matoshri College of Engineering, indicating the ownership of the content."
+                }
+            ]            
