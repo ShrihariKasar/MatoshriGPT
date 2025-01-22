@@ -5,12 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MatoshriGPT Chat</title>
     <link rel="stylesheet" href="/static/styles.css">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 </head>
 <body>
     <div class="chat-container">
         <div class="chat-header">
-            <h1>MatoshriGPT</h1>
+            <h1 class="chat-title">MatoshriGPT</h1>
         </div>
         <div class="chat-box" id="chat-box"></div>
         <form class="chat-form" id="chat-form">
@@ -22,9 +21,6 @@
                 autocomplete="off" 
                 required>
             <button type="submit" class="chat-submit">Send</button>
-            <button type="button" id="mic-button" class="chat-mic">
-                <i class="fas fa-microphone"></i>
-            </button>
         </form>
     </div>
 
@@ -32,51 +28,14 @@
         const chatForm = document.getElementById("chat-form");
         const chatBox = document.getElementById("chat-box");
         const userInput = document.getElementById("user-input");
-        const micButton = document.getElementById("mic-button");
 
-        let isSpeaking = false;  // Track if speech synthesis is ongoing
-        let synth = window.speechSynthesis; // Speech synthesis object
-        let currentUtterance = null;  // Reference to the active speech utterance
-
-        // Function to toggle speech synthesis on button click
-        function toggleSpeech(responseText, buttonId) {
-            const button = document.getElementById(buttonId);
-
-            if (isSpeaking) {
-                // Stop current speech
-                synth.cancel();
-                isSpeaking = false;
-                button.innerHTML = '<i class="fas fa-volume-up"></i>'; // Reset to speaker icon
-                return;
-            }
-
-            // Start speaking
-            const utterance = new SpeechSynthesisUtterance(responseText);
-            utterance.lang = 'en-US'; // Set the language
-            utterance.rate = 1; // Set the speed
-            utterance.pitch = 1; // Set the pitch
-
-            utterance.onstart = () => {
-                isSpeaking = true;
-                button.innerHTML = '<i class="fas fa-volume-mute"></i>'; // Show mute icon
-            };
-            utterance.onend = () => {
-                isSpeaking = false;
-                button.innerHTML = '<i class="fas fa-volume-up"></i>'; // Reset to speaker icon
-            };
-
-            synth.speak(utterance);
-            currentUtterance = utterance;
-        }
-
-        // Handle form submission
         chatForm.addEventListener("submit", async (e) => {
             e.preventDefault();
             const userMessage = userInput.value;
-
+            
             // Add user message to chat box
             chatBox.innerHTML += `<div class="chat-message user-message">${userMessage}</div>`;
-            userInput.value = "";  // Clear input field
+            userInput.value = "";
 
             // Send message to backend
             const response = await fetch("/chat", {
@@ -87,78 +46,10 @@
 
             const data = await response.json();
 
-            // Generate unique ID for the speaker button
-            const botReply = data.reply;
-            const uniqueButtonId = `speaker-button-${Date.now()}`;
-
-            // Add bot reply and speaker button to chat box
-            chatBox.innerHTML += `
-                <div class="chat-message bot-message">
-                    ${botReply}
-                    <button id="${uniqueButtonId}" class="speak-button">
-                        <i class="fas fa-volume-up"></i>
-                    </button>
-                </div>
-            `;
-            chatBox.scrollTop = chatBox.scrollHeight; // Auto-scroll to bottom
-
-            // Ensure that the speaker button is clickable after DOM update
-            const speakerButton = document.getElementById(uniqueButtonId);
-
-            speakerButton.addEventListener("click", () => {
-                toggleSpeech(botReply, uniqueButtonId);  // Toggle speech on button click
-            });
+            // Add bot reply to chat box
+            chatBox.innerHTML += `<div class="chat-message bot-message">${data.reply}</div>`;
+            chatBox.scrollTop = chatBox.scrollHeight; // Auto-scroll to the bottom
         });
-
-        // Handle microphone button for voice input
-        micButton.addEventListener("click", () => {
-            const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
-            recognition.lang = "en-US";
-            recognition.start();
-
-            recognition.onstart = () => {
-                console.log("Voice recognition started.");
-                micButton.disabled = true;
-                micButton.innerHTML = '<i class="fas fa-microphone-slash"></i>'; // Change to microphone-off icon
-            };
-
-            recognition.onresult = (event) => {
-                const transcript = event.results[0][0].transcript;
-                userInput.value = transcript; // Set recognized speech in input field
-                micButton.disabled = false;
-                micButton.innerHTML = '<i class="fas fa-microphone"></i>'; // Reset to mic icon
-            };
-
-            recognition.onerror = () => {
-                micButton.disabled = false;
-                micButton.innerHTML = '<i class="fas fa-microphone"></i>'; // Reset to mic icon
-            };
-
-            recognition.onend = () => {
-                micButton.disabled = false;
-                micButton.innerHTML = '<i class="fas fa-microphone"></i>'; // Reset to mic icon
-            };
-        });
-
-        // Prevent automatic speech on page load
-        document.addEventListener('DOMContentLoaded', function () {
-            console.log("Page loaded, speech synthesis is ready.");
-            // Ensure speech synthesis is available before use
-            if (!window.speechSynthesis) {
-                console.error("Speech synthesis not supported in this browser.");
-            }
-        });
-
-        // Stop speech when the page is closed or refreshed
-        window.onbeforeunload = () => {
-            synth.cancel();
-        };
-
-        // Ensure speech synthesis doesn't auto-start, only starts when button is clicked
-        window.speechSynthesis.onvoiceschanged = () => {
-            // Make sure voices are loaded and available
-            console.log('Speech voices loaded.');
-        };
     </script>
 </body>
 </html>
