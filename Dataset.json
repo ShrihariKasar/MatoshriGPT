@@ -741,11 +741,6 @@
     "completion": "The department has a team of highly qualified faculty members, including professors, assistant professors, and lecturers."
 },
 {
-    "id": 3838,
-    "prompt": "Who is the head of the department?",
-    "completion": "Dr. Varsha H. Patil is the Head of the Department."
-},
-{
     "id": 3839,
     "prompt": "What are Dr. Varsha H. Patil’s areas of expertise?",
     "completion": "Her areas of expertise include Image Processing, Parallel Computing, and Soft Computing."
