@@ -578,5 +578,10 @@
                     "id": 132,
                     "prompt": "What is '© 2025 Matoshri College of Engineering and Research Centre'?",
                     "completion": "© 2025 Matoshri College of Engineering and Research Centre represents the copyright statement for the official website or materials of Matoshri College of Engineering, indicating the ownership of the content."
-                }
+                },
+                {
+                    "id": 133,
+                    "prompt": "How many departments are there in Matoshri College of Engineering and Research Centre?",
+                    "completion": "There are 8 departments in Matoshri College of Engineering and Research Centre, including Computer Engineering, Electrical Engineering, Electronics and Telecommunication Engineering, Information Technology, Mechanical Engineering, Civil Engineering, Artificial Intelligence and Data Science, and Engineering Sciences."
+                  }                  
             ]            
