@@ -962,7 +962,7 @@
 },
 {
     "id": 3883,
-    "prompt": "Who is the Academic Dean of Matoshri College of Engineering & Research Centre?",
+    "prompt": "Academic Dean of Matoshri College of Engineering & Research Centre?",
     "completion": "Dr. Varsha H. Patil serves as the Dean of Academics at Matoshri College of Engineering & Research Centre. She is also a Professor in the Department of Computer Engineering."
 },
 {
@@ -3551,5 +3551,1325 @@
         "id": 4679,
         "prompt": "How does the department encourage lifelong learning?",
         "completion": "Learners recognize the importance of lifelong learning and are equipped to adapt to technological changes through independent and continuous education."
+    },
+    {
+        "id": 4680,
+        "prompt": "What is the academic structure of Matoshri College of Engineering?",
+        "completion": "Matoshri College of Engineering offers undergraduate (B.E.) and postgraduate (M.Tech) courses across various engineering disciplines. The academic structure is designed to foster both theoretical knowledge and practical skills through a combination of lectures, labs, projects, and internships."
+    },
+    {
+        "id": 4681,
+        "prompt": "Which undergraduate (B.E.) programs are offered at Matoshri College of Engineering?",
+        "completion": "The college offers a variety of B.E. programs in the following branches: 1. Computer Engineering 2. Mechanical Engineering 3. Civil Engineering 4. Electrical Engineering 5. Electronics and Telecommunication Engineering 6. Information Technology. Each program spans four years and adheres to the syllabus prescribed by the affiliated university."
+    },
+    {
+        "id": 4682,
+        "prompt": "What are the eligibility criteria for the B.E. programs at Matoshri College of Engineering?",
+        "completion": "To be eligible for B.E. admission: The candidate must have completed 10+2 (or equivalent) with Physics, Chemistry, and Mathematics as core subjects. They must have secured a minimum required percentage (varies by program) in their 10+2 exams. Candidates must also clear the relevant entrance exams, such as JEE Main or the state-level entrance exams (depending on the region)."
+    },
+    {
+        "id": 4683,
+        "prompt": "Does Matoshri College of Engineering offer any Master's programs?",
+        "completion": "Yes, the college offers M.Tech programs in specialized fields. Some of the programs include: 1. M.Tech in Computer Engineering 2. M.Tech in Structural Engineering 3. M.Tech in Digital Electronics. These programs are designed for students who wish to specialize further in their respective engineering disciplines."
+    },
+    {
+        "id": 4684,
+        "prompt": "What extracurricular activities are available at Matoshri College of Engineering?",
+        "completion": "Matoshri College of Engineering provides students with opportunities to engage in various extracurricular activities, such as: Cultural Events: Annual cultural festivals, including dance, music, drama, and other creative performances. Sports: A wide range of sports, including cricket, football, basketball, and athletics, are encouraged. Clubs & Societies: Students can participate in technical clubs, robotics clubs, debate clubs, and more."
+    },
+    {
+        "id": 4685,
+        "prompt": "What is the importance of sports in Matoshri College of Engineering?",
+        "completion": "Sports play a crucial role in the overall development of students at Matoshri College of Engineering. The college has well-maintained sports facilities and regularly hosts inter-college tournaments, as well as local and regional sports competitions. It encourages physical fitness, teamwork, and discipline."
+    },
+    {
+        "id": 4686,
+        "prompt": "Can you tell me about the cultural days celebrated at Matoshri College of Engineering?",
+        "completion": "Matoshri College of Engineering celebrates an annual cultural festival, where students organize various events like singing, dancing, drama, fashion shows, and art exhibitions. This event fosters creativity, team collaboration, and a spirit of unity among students."
+    },
+    {
+        "id": 4687,
+        "prompt": "How does Matoshri College of Engineering support research and development?",
+        "completion": "The college encourages research and development (R&D) by providing faculty and students with access to research journals, workshops, and funding for innovative projects. Students are also encouraged to participate in national and international conferences, seminars, and workshops to present their research work."
+    },
+    {
+        "id": 4688,
+        "prompt": "What kind of industrial collaborations does Matoshri College of Engineering have?",
+        "completion": "Matoshri College of Engineering has collaborations with various industries to provide students with hands-on experience. These collaborations include: Internship opportunities in leading companies. Industry visits to understand real-world applications of engineering principles. Guest lectures from industry experts."
+    },
+    {
+        "id": 4689,
+        "prompt": "How is the placement process handled at Matoshri College of Engineering?",
+        "completion": "The placement process at Matoshri College of Engineering is handled by the Training and Placement (T&P) cell. The T&P cell conducts placement drives, pre-placement training, and workshops to prepare students for interviews. The college boasts strong industry ties and has seen successful placements in top companies, particularly in the IT, manufacturing, and engineering sectors."
+    },
+    {
+        "id": 4690,
+        "prompt": "What is Matoshri Education Society?",
+        "completion": "Matoshri Education Society is an educational organization based in Nashik, Maharashtra, managing various institutions that offer programs in engineering, pharmacy, management, and other fields."
+    },
+    {
+        "id": 4691,
+        "prompt": "Where is Matoshri College of Engineering located?",
+        "completion": "Matoshri College of Engineering is located in Eklahare, Nashik, Maharashtra, India."
+    },
+    {
+        "id": 4692,
+        "prompt": "What courses does Matoshri College of Engineering offer?",
+        "completion": "Matoshri College of Engineering offers undergraduate and postgraduate programs in disciplines like Computer Engineering, Mechanical En\u2026"
+    },
+    {
+        "id": 4693,
+        "prompt": "What is the intake capacity for the Civil Engineering program?",
+        "completion": "The intake capacity for the Civil Engineering program is 60 students."
+    },
+    {
+        "id": 4694,
+        "prompt": "What is the library facility at Matoshri College?",
+        "completion": "Matoshri College has a well-equipped library with thousands of books, journals, and e-resources to support students and faculty."
+    },
+    {
+        "id": 4695,
+        "prompt": "Does Matoshri College offer a cafeteria on campus?",
+        "completion": "Yes, Matoshri College has a cafeteria that provides hygienic and affordable food for students and staff."
+    },
+    {
+        "id": 4696,
+        "prompt": "What is the minimum attendance requirement for students?",
+        "completion": "Students are required to maintain a minimum attendance of 75% to be eligible for examinations."
+    },
+    {
+        "id": 4697,
+        "prompt": "What is the role of the Anti-Ragging Cell?",
+        "completion": "The Anti-Ragging Cell ensures a safe and welcoming environment for all students by preventing and addressing any incidents of ragging."
+    },
+    {
+        "id": 4698,
+        "prompt": "Who is the head of the Mechanical Engineering Department?",
+        "completion": "The Head of the Mechanical Engineering Department is Prof. Dr. Shridhar S. Khule."
+    },
+    {
+        "id": 4699,
+        "prompt": "What are the sports facilities available on campus?",
+        "completion": "Matoshri College offers facilities for cricket, football, volleyball, badminton, and indoor games like table tennis and chess."
+    },
+    {
+        "id": 4700,
+        "prompt": "Does the college have Wi-Fi connectivity?",
+        "completion": "Yes, the campus provides Wi-Fi connectivity for students and staff."
+    },
+    {
+        "id": 4701,
+        "prompt": "What is the Grievance Redressal Cell?",
+        "completion": "The Grievance Redressal Cell addresses the concerns and complaints of students and staff to ensure a harmonious environment."
+    },
+    {
+        "id": 4702,
+        "prompt": "What is the intake capacity for the Computer Engineering program?",
+        "completion": "The intake capacity for the Computer Engineering program is 120 students."
+    },
+    {
+        "id": 4703,
+        "prompt": "Does Matoshri College provide scholarships?",
+        "completion": "Yes, Matoshri College assists students in availing scholarships offered by the government and private organizations."
+    },
+    {
+        "id": 4704,
+        "prompt": "What is the role of the Industry Institute Interaction Cell?",
+        "completion": "The Industry Institute Interaction Cell promotes collaborations with industries for internships, projects, and guest lectures."
+    },
+    {
+        "id": 4705,
+        "prompt": "What is the qualification of Prof. Dr. Amol B. Saner?",
+        "completion": "Prof. Dr. Amol B. Saner has a Ph.D. in Civil Engineering and an M.E. in Environmental Engineering."
+    },
+    {
+        "id": 4706,
+        "prompt": "What placement companies visit Matoshri College?",
+        "completion": "Companies like TCS, Infosys, Wipro, and L&T frequently visit Matoshri College for campus placements."
+    },
+    {
+        "id": 4707,
+        "prompt": "What is the duration of the M.E. program?",
+        "completion": "The duration of the M.E. program is two years."
+    },
+    {
+        "id": 4708,
+        "prompt": "What is the student strength of the Electrical Engineering department?",
+        "completion": "The intake capacity for the Electrical Engineering program is 60 students."
+    },
+    {
+        "id": 4709,
+        "prompt": "Does the college have an auditorium?",
+        "completion": "Yes, Matoshri College has a modern auditorium for hosting events, seminars, and cultural programs."
+    },
+    {
+        "id": 4710,
+        "prompt": "What is the intake capacity for the Electronics and Telecommunication Engineering program?",
+        "completion": "The intake capacity for the Electronics and Telecommunication Engineering program is 60 students."
+    },
+    {
+        "id": 4711,
+        "prompt": "What programs are available in the postgraduate category?",
+        "completion": "Postgraduate programs include M.E. in disciplines like Mechanical Engineering (Design Engineering) and Civil Engineering (Structural Engineering)."
+    },
+    {
+        "id": 4712,
+        "prompt": "What initiatives does the Women Development Cell undertake?",
+        "completion": "The Women Development Cell organizes workshops, seminars, and awareness programs to support and empower female students and staff."
+    },
+    {
+        "id": 4713,
+        "prompt": "What is the eligibility for M.E. admissions?",
+        "completion": "Eligibility for M.E. admissions includes a B.E./B.Tech degree in a relevant discipline with a valid GATE score."
+    },
+    {
+        "id": 4714,
+        "prompt": "Does the college provide financial assistance to students?",
+        "completion": "Yes, Matoshri College facilitates various scholarships and fee waivers for eligible students."
+    },
+    {
+        "id": 4715,
+        "prompt": "What is the function of the Research and Development Cell?",
+        "completion": "The Research and Development Cell promotes innovative research activities and encourages faculty and students to publish research papers."
+    },
+    {
+        "id": 4716,
+        "prompt": "Are there any student exchange programs?",
+        "completion": "Yes, Matoshri College collaborates with universities for student exchange and global exposure opportunities."
+    },
+    {
+        "id": 4717,
+        "prompt": "What languages are taught in communication skills workshops?",
+        "completion": "Communication skills workshops cover languages like English, Marathi, and Hindi to enhance students' soft skills."
+    },
+    {
+        "id": 4718,
+        "prompt": "Does the college organize technical festivals?",
+        "completion": "Yes, Matoshri College organizes technical festivals, including hackathons, coding contests, and robotics competitions."
+    },
+    {
+        "id": 4719,
+        "prompt": "What is the role of the Alumni Association?",
+        "completion": "The Alumni Association connects past and present students, providing mentorship and networking opportunities."
+    },
+    {
+        "id": 4720,
+        "prompt": "Are medical facilities available on campus?",
+        "completion": "Yes, Matoshri College provides basic medical facilities and first-aid services on campus."
+    },
+    {
+        "id": 4721,
+        "prompt": "What is the significance of the annual sports day?",
+        "completion": "The annual sports day encourages students to participate in various sports, fostering teamwork and physical fitness."
+    },
+    {
+        "id": 4722,
+        "prompt": "Does Matoshri College have a grievance submission system?",
+        "completion": "Yes, the college has an online and offline grievance submission system to address student concerns promptly."
+    },
+    {
+        "id": 4723,
+        "prompt": "What is the Green Campus Initiative?",
+        "completion": "The Green Campus Initiative promotes eco-friendly practices like tree plantations, waste management, and energy conservation."
+    },
+    {
+        "id": 4724,
+        "prompt": "What is the total student capacity of the college?",
+        "completion": "The total student capacity varies by year and program, exceeding 2,000 across all disciplines."
+    },
+    {
+        "id": 4725,
+        "prompt": "Does Matoshri College organize industrial visits?",
+        "completion": "Yes, the college organizes industrial visits to provide practical exposure to students in various industries."
+    },
+    {
+        "id": 4726,
+        "prompt": "What is the schedule for semester exams?",
+        "completion": "Semester exams are scheduled twice a year, following the academic calendar of Savitribai Phule Pune University."
+    },
+    {
+        "id": 4727,
+        "prompt": "What training is provided for competitive exams?",
+        "completion": "The college offers training programs for exams like GATE, GRE, and campus recruitment tests."
+    },
+    {
+        "id": 4728,
+        "prompt": "What is the purpose of the startup incubation center?",
+        "completion": "The startup incubation center supports students with innovative ideas, providing mentorship and resources to develop startups."
+    },
+    {
+        "id": 4729,
+        "prompt": "Are there language learning facilities for international students?",
+        "completion": "Yes, Matoshri College offers language support and cultural orientation for international students."
+    },
+    {
+        "id": 4730,
+        "prompt": "What is the role of the Cultural Committee?",
+        "completion": "The Cultural Committee organizes events like annual gatherings, talent shows, and festivals to encourage students' artistic and cultural development."
+    },
+    {
+        "id": 4731,
+        "prompt": "What is the purpose of the Parent-Teacher Meet?",
+        "completion": "The Parent-Teacher Meet allows parents to discuss their ward's academic performance and overall development with faculty members."
+    },
+    {
+        "id": 4732,
+        "prompt": "What types of projects are undertaken by the Civil Engineering department?",
+        "completion": "Projects include design and analysis of structures, sustainable construction techniques, and environmental impact assessments."
+    },
+    {
+        "id": 4733,
+        "prompt": "Does the college have a digital library?",
+        "completion": "Yes, Matoshri College offers a digital library with access to e-books, journals, and research papers."
+    },
+    {
+        "id": 4734,
+        "prompt": "What is the average placement percentage at Matoshri College?",
+        "completion": "The average placement percentage varies by department but typically ranges between 75% to 90%."
+    },
+    {
+        "id": 4735,
+        "prompt": "What facilities are available for differently-abled students?",
+        "completion": "The college provides ramps, elevators, and accessible restrooms for differently-abled students."
+    },
+    {
+        "id": 4736,
+        "prompt": "What programming languages are taught in the Computer Engineering department?",
+        "completion": "Programming languages like Python, Java, C++, and SQL are taught in the Computer Engineering department."
+    },
+    {
+        "id": 4737,
+        "prompt": "Does the college have a research publication?",
+        "completion": "Yes, Matoshri College publishes research articles and conference proceedings through its R&D Cell."
+    },
+    {
+        "id": 4738,
+        "prompt": "What activities are conducted during the induction program for new students?",
+        "completion": "The induction program includes orientation sessions, ice-breaking activities, and campus tours to familiarize students with the college."
+    },
+    {
+        "id": 4739,
+        "prompt": "What is the function of the NSS unit?",
+        "completion": "The NSS unit engages students in community service activities like blood donation camps, tree plantations, and rural development programs."
+    },
+    {
+        "id": 4740,
+        "prompt": "Are internships mandatory for students?",
+        "completion": "Yes, internships are mandatory as part of the curriculum to provide industry exposure and practical experience."
+    },
+    {
+        "id": 4741,
+        "prompt": "What software tools are used in the Mechanical Engineering department?",
+        "completion": "Software tools like AutoCAD, SolidWorks, and ANSYS are commonly used in the Mechanical Engineering department."
+    },
+    {
+        "id": 4742,
+        "prompt": "What is the intake capacity for the Electrical Engineering program?",
+        "completion": "The intake capacity for the Electrical Engineering program is 60 students."
+    },
+    {
+        "id": 4743,
+        "prompt": "Does the college conduct skill development workshops?",
+        "completion": "Yes, Matoshri College conducts skill development workshops in areas like coding, soft skills, and advanced technologies."
+    },
+    {
+        "id": 4744,
+        "prompt": "What is the process for applying for a transfer certificate?",
+        "completion": "Students can apply for a transfer certificate by submitting a formal application and clearing any dues with the administration."
+    },
+    {
+        "id": 4745,
+        "prompt": "What is the role of the Sports Committee?",
+        "completion": "The Sports Committee organizes sports tournaments, maintains facilities, and promotes physical fitness among students."
+    },
+    {
+        "id": 4746,
+        "prompt": "Does the college have collaborations with foreign universities?",
+        "completion": "Yes, Matoshri College has collaborations with foreign universities for research, student exchange, and academic programs."
+    },
+    {
+        "id": 4747,
+        "prompt": "What is the role of the Placement Preparation Cell?",
+        "completion": "The Placement Preparation Cell trains students in aptitude, communication, and technical skills to enhance their employability."
+    },
+    {
+        "id": 4748,
+        "prompt": "What is the scope of the Artificial Intelligence and Data Science program?",
+        "completion": "The program focuses on machine learning, data analytics, and AI applications, preparing students for careers in cutting-edge industries."
+    },
+    {
+        "id": 4749,
+        "prompt": "How does the college support entrepreneurship?",
+        "completion": "The college supports entrepreneurship through its incubation center, mentorship programs, and startup funding opportunities."
+    },
+    {
+        "id": 4750,
+        "prompt": "What is the purpose of the Feedback System at Matoshri College?",
+        "completion": "The Feedback System collects input from students, parents, and faculty to improve academic and administrative practices."
+    },
+    {
+        "id": 4751,
+        "prompt": "Does the college provide transportation facilities?",
+        "completion": "Yes, Matoshri College offers transportation facilities for students and staff with buses covering nearby areas."
+    },
+    {
+        "id": 4752,
+        "prompt": "What co-curricular activities are available for students?",
+        "completion": "Co-curricular activities include technical seminars, coding contests, paper presentations, and project exhibitions."
+    },
+    {
+        "id": 4753,
+        "prompt": "Does Matoshri College provide hostel facilities?",
+        "completion": "Yes, the college provides separate hostel facilities for boys and girls with amenities like Wi-Fi, mess, and recreation rooms."
+    },
+    {
+        "id": 4754,
+        "prompt": "What kind of projects are supported by the Incubation Center?",
+        "completion": "The Incubation Center supports projects in fields like technology, renewable energy, and AI, offering mentorship and funding."
+    },
+    {
+        "id": 4755,
+        "prompt": "What is the intake capacity for the Artificial Intelligence and Data Science program?",
+        "completion": "The intake capacity for the Artificial Intelligence and Data Science program is 60 students."
+    },
+    {
+        "id": 4756,
+        "prompt": "Does the college organize guest lectures?",
+        "completion": "Yes, Matoshri College regularly organizes guest lectures by industry experts and academicians to enhance learning."
+    },
+    {
+        "id": 4757,
+        "prompt": "What extracurricular activities are encouraged at Matoshri College?",
+        "completion": "Extracurricular activities include cultural events, sports, drama, music, and social service initiatives."
+    },
+    {
+        "id": 4758,
+        "prompt": "How does the college support slow learners?",
+        "completion": "The college provides remedial classes, additional tutorials, and mentorship programs to support slow learners."
+    },
+    {
+        "id": 4759,
+        "prompt": "What is the role of the E-Learning Center?",
+        "completion": "The E-Learning Center provides access to online courses, virtual labs, and digital learning resources for students."
+    },
+    {
+        "id": 4760,
+        "prompt": "Does the college have an Entrepreneurship Club?",
+        "completion": "Yes, the Entrepreneurship Club fosters innovation and entrepreneurial spirit among students through workshops and competitions."
+    },
+    {
+        "id": 4761,
+        "prompt": "What is the duration of the B.E. programs?",
+        "completion": "The duration of the B.E. programs is four years, divided into eight semesters."
+    },
+    {
+        "id": 4762,
+        "prompt": "What types of scholarships are available for students?",
+        "completion": "Scholarships include government schemes, merit-based scholarships, and financial assistance for economically weaker students."
+    },
+    {
+        "id": 4763,
+        "prompt": "What is the role of the Language Lab?",
+        "completion": "The Language Lab helps students improve their communication skills, particularly in English, using interactive tools."
+    },
+    {
+        "id": 4764,
+        "prompt": "What are the qualifications of Prof. Dr. Nilesh Patil?",
+        "completion": "Prof. Dr. Nilesh Patil holds a Ph.D. in Mechanical Engineering and specializes in Design Engineering."
+    },
+    {
+        "id": 4765,
+        "prompt": "What is the college\u2019s policy on academic integrity?",
+        "completion": "Matoshri College promotes academic integrity by enforcing strict policies against plagiarism and cheating in exams."
+    },
+    {
+        "id": 4766,
+        "prompt": "What is the purpose of the Technical Clubs?",
+        "completion": "Technical Clubs allow students to engage in hands-on projects, coding challenges, and innovation-driven activities."
+    },
+    {
+        "id": 4767,
+        "prompt": "What sports tournaments are organized annually?",
+        "completion": "The college organizes tournaments for cricket, football, badminton, and indoor games like chess and table tennis."
+    },
+    {
+        "id": 4768,
+        "prompt": "How does the college celebrate National Science Day?",
+        "completion": "The college celebrates National Science Day with exhibitions, quizzes, and guest lectures to promote scientific awareness."
+    },
+    {
+        "id": 4769,
+        "prompt": "Does the college offer career counseling services?",
+        "completion": "Yes, Matoshri College provides career counseling services to guide students in choosing the right career paths."
+    },
+    {
+        "id": 4770,
+        "prompt": "How can I get information about the faculty of the Electronics and Telecommunication department?",
+        "completion": "Faculty details for the Electronics and Telecommunication department can be found on the department's official webpage."
+    },
+    {
+        "id": 4771,
+        "prompt": "Do the faculty members in the IT department attend conferences?",
+        "completion": "Yes, faculty members from the IT department regularly attend national and international conferences to stay updated with industry trends."
+    },
+    {
+        "id": 4772,
+        "prompt": "What is the role of faculty in shaping the curriculum?",
+        "completion": "Faculty members contribute to shaping the curriculum by providing industry insights and integrating new technological developments."
+    },
+    {
+        "id": 4773,
+        "prompt": "Is there a faculty council at Matoshri College of Engineering?",
+        "completion": "Yes, the faculty council at Matoshri College of Engineering plays a key role in decision-making and policy implementation."
+    },
+    {
+        "id": 4774,
+        "prompt": "Can students attend seminars hosted by faculty members?",
+        "completion": "Yes, seminars hosted by faculty members are open to students, and they are encouraged to attend for knowledge enhancement."
+    },
+    {
+        "id": 4775,
+        "prompt": "How can I reach out to faculty for guidance on projects?",
+        "completion": "You can reach out to faculty members via email or visit them during their office hours for project guidance."
+    },
+    {
+        "id": 4776,
+        "prompt": "Are there any faculty members with industry experience?",
+        "completion": "Yes, many faculty members have industry experience and bring practical insights to the academic setting."
+    },
+    {
+        "id": 4777,
+        "prompt": "How does the college support faculty research initiatives?",
+        "completion": "The college supports faculty research initiatives by providing grants, access to research facilities, collaborations with industries, and opportunities for presenting research in conferences."
+    },
+    {
+        "id": 4778,
+        "prompt": "What is the role of the Head of Department at Matoshri College of Engineering?",
+        "completion": "The Head of Department (HOD) oversees the academic and administrative activities of the department, including curriculum planning, faculty performance, and student progress."
+    },
+    {
+        "id": 4779,
+        "prompt": "Who is responsible for the admissions process in the engineering faculty?",
+        "completion": "The admissions process is typically managed by the Admission Committee, with faculty involvement in evaluating applications and conducting interviews."
+    },
+    {
+        "id": 4780,
+        "prompt": "What is the role of faculty advisors in the academic structure?",
+        "completion": "Faculty advisors provide academic guidance to students, help them with course selection, and monitor their academic progress throughout their studies."
+    },
+    {
+        "id": 4781,
+        "prompt": "What is the role of a teaching assistant at Matoshri College of Engineering?",
+        "completion": "Teaching assistants (TAs) support faculty members in conducting classes, grading assignments, assisting students during labs, and offering additional academic help."
+    },
+    {
+        "id": 4782,
+        "prompt": "Who manages the college\u2019s research initiatives?",
+        "completion": "The Research and Development (R&D) Cell at the college, along with faculty members, manages research projects, funding, and collaborations with industries."
+    },
+    {
+        "id": 4783,
+        "prompt": "What is the role of the faculty coordinator for co-curricular activities?",
+        "completion": "The faculty coordinator for co-curricular activities organizes and oversees extracurricular events, including technical fests, cultural programs, and sports competitions."
+    },
+    {
+        "id": 4784,
+        "prompt": "How is the role of the academic coordinator defined?",
+        "completion": "The academic coordinator is responsible for ensuring the smooth execution of the academic schedule, monitoring faculty performance, and ensuring the curriculum is followed."
+    },
+    {
+        "id": 4785,
+        "prompt": "Who handles the placement activities for students?",
+        "completion": "The Placement Officer and the Placement Cell coordinate all placement activities, including interactions with companies, organizing interviews, and preparing students for job placements."
+    },
+    {
+        "id": 4786,
+        "prompt": "What is the role of the faculty in the placement process?",
+        "completion": "Faculty members assist in the placement process by mentoring students, organizing mock interviews, providing industry insights, and guiding students in resume building."
+    },
+    {
+        "id": 4787,
+        "prompt": "How are faculty members evaluated for promotions?",
+        "completion": "Faculty members are evaluated based on their academic performance, research contributions, teaching effectiveness, student feedback, and industry experience."
+    },
+    {
+        "id": 4788,
+        "prompt": "What role does the administrative staff play at Matoshri College of Engineering?",
+        "completion": "Administrative staff manage the day-to-day operations of the college, including handling student records, scheduling, and coordinating with faculty and students."
+    },
+    {
+        "id": 4789,
+        "prompt": "How does the library staff contribute to student learning?",
+        "completion": "The library staff assists students in accessing resources, maintaining the library collection, organizing workshops, and ensuring the availability of study materials."
+    },
+    {
+        "id": 4790,
+        "prompt": "Who manages the online academic portals at the college?",
+        "completion": "The IT department, under the supervision of the chief IT officer, manages the college's online academic portals, including course material distribution, attendance records, and student databases."
+    },
+    {
+        "id": 4791,
+        "prompt": "What role do laboratory assistants play in engineering departments?",
+        "completion": "Laboratory assistants help in setting up experiments, ensuring safety protocols are followed, and assisting students during practical sessions in labs."
+    },
+    {
+        "id": 4792,
+        "prompt": "What is the role of the student counselor in Matoshri College of Engineering?",
+        "completion": "Student counselors provide emotional and academic support, help manage stress, and offer career guidance to students who need assistance with personal or academic challenges."
+    },
+    {
+        "id": 4793,
+        "prompt": "What is the role of the office staff in the academic process?",
+        "completion": "Office staff handle administrative duties like maintaining student records, coordinating schedules, processing documents, and supporting faculty and students with logistical needs."
+    },
+    {
+        "id": 4794,
+        "prompt": "How does the faculty contribute to the college's curriculum development?",
+        "completion": "Faculty members collaborate with the curriculum development committee to design, update, and align the curriculum with industry trends and technological advancements."
+    },
+    {
+        "id": 4795,
+        "prompt": "What is the role of the sports coordinator at Matoshri College of Engineering?",
+        "completion": "The sports coordinator organizes and promotes sports events and competitions, ensuring students participate in physical activities and maintain a healthy lifestyle."
+    },
+    {
+        "id": 4796,
+        "prompt": "Who is responsible for managing faculty performance reviews?",
+        "completion": "Faculty performance reviews are managed by the academic committee, which collects student feedback, conducts peer reviews, and evaluates teaching effectiveness."
+    },
+    {
+        "id": 4797,
+        "prompt": "What role do administrative officers play in the management of student affairs?",
+        "completion": "Administrative officers are responsible for addressing student concerns, managing academic records, handling grievances, and assisting with various student-related matters."
+    },
+    {
+        "id": 4798,
+        "prompt": "How are faculty members supported in their research endeavors?",
+        "completion": "Faculty members are supported with research grants, access to research facilities, and collaborations with industries and academic institutions."
+    },
+    {
+        "id": 4799,
+        "prompt": "Who is responsible for organizing industry visits for students?",
+        "completion": "The faculty members and the Placement Cell coordinate industry visits, ensuring that students gain real-world insights and exposure to the latest industry practices."
+    },
+    {
+        "id": 4800,
+        "prompt": "What is the role of the head of the administration department?",
+        "completion": "The head of administration manages all non-academic operations, including human resources, student admissions, and institutional regulations."
+    },
+    {
+        "id": 4801,
+        "prompt": "What responsibilities do faculty members have beyond teaching?",
+        "completion": "In addition to teaching, faculty members are involved in research, mentoring students, organizing events, and contributing to curriculum development."
+    },
+    {
+        "id": 4802,
+        "prompt": "Does Matoshri College have a staff welfare officer?",
+        "completion": "Yes, the staff welfare officer is responsible for addressing faculty and staff concerns, ensuring their well-being, and organizing welfare programs."
+    },
+    {
+        "id": 4803,
+        "prompt": "Who is responsible for overseeing the implementation of college policies?",
+        "completion": "The college management and principal are responsible for overseeing the implementation of academic, administrative, and operational policies."
+    },
+    {
+        "id": 4804,
+        "prompt": "What role does the faculty play in promoting research culture at the college?",
+        "completion": "Faculty members actively participate in research projects, collaborate with research organizations, and encourage students to engage in research activities."
+    },
+    {
+        "id": 4805,
+        "prompt": "How does the administrative staff support the examination process?",
+        "completion": "The administrative staff manages examination schedules, invigilator assignments, result processing, and distribution of marksheets."
+    },
+    {
+        "id": 4806,
+        "prompt": "What is the role of faculty in student assessment?",
+        "completion": "Faculty members design assessments, grade assignments and exams, and provide feedback to students to improve their academic performance."
+    },
+    {
+        "id": 4807,
+        "prompt": "Who ensures the upkeep of campus facilities?",
+        "completion": "The campus facilities are managed by the facilities management team, who ensure that all physical infrastructure, including classrooms and labs, are well-maintained."
+    },
+    {
+        "id": 4808,
+        "prompt": "How are student grievances addressed by the staff?",
+        "completion": "Student grievances are addressed by the student welfare committee, which works with faculty and administrative staff to resolve any issues promptly."
+    },
+    {
+        "id": 4809,
+        "prompt": "What role does the HR department play in staff recruitment?",
+        "completion": "The HR department is responsible for recruiting staff, conducting interviews, managing hiring processes, and ensuring the selection of qualified candidates."
+    },
+    {
+        "id": 4810,
+        "prompt": "Who is the principal of Matoshri College of Engineering & Research Centre?",
+        "completion": "Dr.G.K.Kharate serves as the principal of Matoshri College of Engineering & Research Centre."
+    },
+    {
+        "id": 4811,
+        "prompt": "Hello",
+        "completion": "Hii.....How can help you?"
+    },
+    {
+        "id": 4680,
+        "prompt": "What is the academic structure of Matoshri College of Engineering?",
+        "completion": "Matoshri College of Engineering offers undergraduate (B.E.) and postgraduate (M.Tech) courses across various engineering disciplines. The academic structure is designed to foster both theoretical knowledge and practical skills through a combination of lectures, labs, projects, and internships."
+    },
+    {
+        "id": 4681,
+        "prompt": "Which undergraduate (B.E.) programs are offered at Matoshri College of Engineering?",
+        "completion": "The college offers a variety of B.E. programs in the following branches: 1. Computer Engineering 2. Mechanical Engineering 3. Civil Engineering 4. Electrical Engineering 5. Electronics and Telecommunication Engineering 6. Information Technology. Each program spans four years and adheres to the syllabus prescribed by the affiliated university."
+    },
+    {
+        "id": 4682,
+        "prompt": "What are the eligibility criteria for the B.E. programs at Matoshri College of Engineering?",
+        "completion": "To be eligible for B.E. admission: The candidate must have completed 10+2 (or equivalent) with Physics, Chemistry, and Mathematics as core subjects. They must have secured a minimum required percentage (varies by program) in their 10+2 exams. Candidates must also clear the relevant entrance exams, such as JEE Main or the state-level entrance exams (depending on the region)."
+    },
+    {
+        "id": 4683,
+        "prompt": "Does Matoshri College of Engineering offer any Master's programs?",
+        "completion": "Yes, the college offers M.Tech programs in specialized fields. Some of the programs include: 1. M.Tech in Computer Engineering 2. M.Tech in Structural Engineering 3. M.Tech in Digital Electronics. These programs are designed for students who wish to specialize further in their respective engineering disciplines."
+    },
+    {
+        "id": 4684,
+        "prompt": "What extracurricular activities are available at Matoshri College of Engineering?",
+        "completion": "Matoshri College of Engineering provides students with opportunities to engage in various extracurricular activities, such as: Cultural Events: Annual cultural festivals, including dance, music, drama, and other creative performances. Sports: A wide range of sports, including cricket, football, basketball, and athletics, are encouraged. Clubs & Societies: Students can participate in technical clubs, robotics clubs, debate clubs, and more."
+    },
+    {
+        "id": 4685,
+        "prompt": "What is the importance of sports in Matoshri College of Engineering?",
+        "completion": "Sports play a crucial role in the overall development of students at Matoshri College of Engineering. The college has well-maintained sports facilities and regularly hosts inter-college tournaments, as well as local and regional sports competitions. It encourages physical fitness, teamwork, and discipline."
+    },
+    {
+        "id": 4686,
+        "prompt": "Can you tell me about the cultural days celebrated at Matoshri College of Engineering?",
+        "completion": "Matoshri College of Engineering celebrates an annual cultural festival, where students organize various events like singing, dancing, drama, fashion shows, and art exhibitions. This event fosters creativity, team collaboration, and a spirit of unity among students."
+    },
+    {
+        "id": 4687,
+        "prompt": "How does Matoshri College of Engineering support research and development?",
+        "completion": "The college encourages research and development (R&D) by providing faculty and students with access to research journals, workshops, and funding for innovative projects. Students are also encouraged to participate in national and international conferences, seminars, and workshops to present their research work."
+    },
+    {
+        "id": 4688,
+        "prompt": "What kind of industrial collaborations does Matoshri College of Engineering have?",
+        "completion": "Matoshri College of Engineering has collaborations with various industries to provide students with hands-on experience. These collaborations include: Internship opportunities in leading companies. Industry visits to understand real-world applications of engineering principles. Guest lectures from industry experts."
+    },
+    {
+        "id": 4689,
+        "prompt": "How is the placement process handled at Matoshri College of Engineering?",
+        "completion": "The placement process at Matoshri College of Engineering is handled by the Training and Placement (T&P) cell. The T&P cell conducts placement drives, pre-placement training, and workshops to prepare students for interviews. The college boasts strong industry ties and has seen successful placements in top companies, particularly in the IT, manufacturing, and engineering sectors."
+    },
+    {
+        "id": 4690,
+        "prompt": "What is Matoshri Education Society?",
+        "completion": "Matoshri Education Society is an educational organization based in Nashik, Maharashtra, managing various institutions that offer programs in engineering, pharmacy, management, and other fields."
+    },
+    {
+        "id": 4691,
+        "prompt": "Where is Matoshri College of Engineering located?",
+        "completion": "Matoshri College of Engineering is located in Eklahare, Nashik, Maharashtra, India."
+    },
+    {
+        "id": 4692,
+        "prompt": "What courses does Matoshri College of Engineering offer?",
+        "completion": "Matoshri College of Engineering offers undergraduate and postgraduate programs in disciplines like Computer Engineering, Mechanical En\u2026"
+    },
+    {
+        "id": 4693,
+        "prompt": "What is the intake capacity for the Civil Engineering program?",
+        "completion": "The intake capacity for the Civil Engineering program is 60 students."
+    },
+    {
+        "id": 4694,
+        "prompt": "What is the library facility at Matoshri College?",
+        "completion": "Matoshri College has a well-equipped library with thousands of books, journals, and e-resources to support students and faculty."
+    },
+    {
+        "id": 4695,
+        "prompt": "Does Matoshri College offer a cafeteria on campus?",
+        "completion": "Yes, Matoshri College has a cafeteria that provides hygienic and affordable food for students and staff."
+    },
+    {
+        "id": 4696,
+        "prompt": "What is the minimum attendance requirement for students?",
+        "completion": "Students are required to maintain a minimum attendance of 75% to be eligible for examinations."
+    },
+    {
+        "id": 4697,
+        "prompt": "What is the role of the Anti-Ragging Cell?",
+        "completion": "The Anti-Ragging Cell ensures a safe and welcoming environment for all students by preventing and addressing any incidents of ragging."
+    },
+    {
+        "id": 4698,
+        "prompt": "Who is the head of the Mechanical Engineering Department?",
+        "completion": "The Head of the Mechanical Engineering Department is Prof. Dr. Shridhar S. Khule."
+    },
+    {
+        "id": 4699,
+        "prompt": "What are the sports facilities available on campus?",
+        "completion": "Matoshri College offers facilities for cricket, football, volleyball, badminton, and indoor games like table tennis and chess."
+    },
+    {
+        "id": 4700,
+        "prompt": "Does the college have Wi-Fi connectivity?",
+        "completion": "Yes, the campus provides Wi-Fi connectivity for students and staff."
+    },
+    {
+        "id": 4701,
+        "prompt": "What is the Grievance Redressal Cell?",
+        "completion": "The Grievance Redressal Cell addresses the concerns and complaints of students and staff to ensure a harmonious environment."
+    },
+    {
+        "id": 4702,
+        "prompt": "What is the intake capacity for the Computer Engineering program?",
+        "completion": "The intake capacity for the Computer Engineering program is 120 students."
+    },
+    {
+        "id": 4703,
+        "prompt": "Does Matoshri College provide scholarships?",
+        "completion": "Yes, Matoshri College assists students in availing scholarships offered by the government and private organizations."
+    },
+    {
+        "id": 4704,
+        "prompt": "What is the role of the Industry Institute Interaction Cell?",
+        "completion": "The Industry Institute Interaction Cell promotes collaborations with industries for internships, projects, and guest lectures."
+    },
+    {
+        "id": 4705,
+        "prompt": "What is the qualification of Prof. Dr. Amol B. Saner?",
+        "completion": "Prof. Dr. Amol B. Saner has a Ph.D. in Civil Engineering and an M.E. in Environmental Engineering."
+    },
+    {
+        "id": 4706,
+        "prompt": "What placement companies visit Matoshri College?",
+        "completion": "Companies like TCS, Infosys, Wipro, and L&T frequently visit Matoshri College for campus placements."
+    },
+    {
+        "id": 4707,
+        "prompt": "What is the duration of the M.E. program?",
+        "completion": "The duration of the M.E. program is two years."
+    },
+    {
+        "id": 4708,
+        "prompt": "What is the student strength of the Electrical Engineering department?",
+        "completion": "The intake capacity for the Electrical Engineering program is 60 students."
+    },
+    {
+        "id": 4709,
+        "prompt": "Does the college have an auditorium?",
+        "completion": "Yes, Matoshri College has a modern auditorium for hosting events, seminars, and cultural programs."
+    },
+    {
+        "id": 4710,
+        "prompt": "What is the intake capacity for the Electronics and Telecommunication Engineering program?",
+        "completion": "The intake capacity for the Electronics and Telecommunication Engineering program is 60 students."
+    },
+    {
+        "id": 4711,
+        "prompt": "What programs are available in the postgraduate category?",
+        "completion": "Postgraduate programs include M.E. in disciplines like Mechanical Engineering (Design Engineering) and Civil Engineering (Structural Engineering)."
+    },
+    {
+        "id": 4712,
+        "prompt": "What initiatives does the Women Development Cell undertake?",
+        "completion": "The Women Development Cell organizes workshops, seminars, and awareness programs to support and empower female students and staff."
+    },
+    {
+        "id": 4713,
+        "prompt": "What is the eligibility for M.E. admissions?",
+        "completion": "Eligibility for M.E. admissions includes a B.E./B.Tech degree in a relevant discipline with a valid GATE score."
+    },
+    {
+        "id": 4714,
+        "prompt": "Does the college provide financial assistance to students?",
+        "completion": "Yes, Matoshri College facilitates various scholarships and fee waivers for eligible students."
+    },
+    {
+        "id": 4715,
+        "prompt": "What is the function of the Research and Development Cell?",
+        "completion": "The Research and Development Cell promotes innovative research activities and encourages faculty and students to publish research papers."
+    },
+    {
+        "id": 4716,
+        "prompt": "Are there any student exchange programs?",
+        "completion": "Yes, Matoshri College collaborates with universities for student exchange and global exposure opportunities."
+    },
+    {
+        "id": 4717,
+        "prompt": "What languages are taught in communication skills workshops?",
+        "completion": "Communication skills workshops cover languages like English, Marathi, and Hindi to enhance students' soft skills."
+    },
+    {
+        "id": 4718,
+        "prompt": "Does the college organize technical festivals?",
+        "completion": "Yes, Matoshri College organizes technical festivals, including hackathons, coding contests, and robotics competitions."
+    },
+    {
+        "id": 4719,
+        "prompt": "What is the role of the Alumni Association?",
+        "completion": "The Alumni Association connects past and present students, providing mentorship and networking opportunities."
+    },
+    {
+        "id": 4720,
+        "prompt": "Are medical facilities available on campus?",
+        "completion": "Yes, Matoshri College provides basic medical facilities and first-aid services on campus."
+    },
+    {
+        "id": 4721,
+        "prompt": "What is the significance of the annual sports day?",
+        "completion": "The annual sports day encourages students to participate in various sports, fostering teamwork and physical fitness."
+    },
+    {
+        "id": 4722,
+        "prompt": "Does Matoshri College have a grievance submission system?",
+        "completion": "Yes, the college has an online and offline grievance submission system to address student concerns promptly."
+    },
+    {
+        "id": 4723,
+        "prompt": "What is the Green Campus Initiative?",
+        "completion": "The Green Campus Initiative promotes eco-friendly practices like tree plantations, waste management, and energy conservation."
+    },
+    {
+        "id": 4724,
+        "prompt": "What is the total student capacity of the college?",
+        "completion": "The total student capacity varies by year and program, exceeding 2,000 across all disciplines."
+    },
+    {
+        "id": 4725,
+        "prompt": "Does Matoshri College organize industrial visits?",
+        "completion": "Yes, the college organizes industrial visits to provide practical exposure to students in various industries."
+    },
+    {
+        "id": 4726,
+        "prompt": "What is the schedule for semester exams?",
+        "completion": "Semester exams are scheduled twice a year, following the academic calendar of Savitribai Phule Pune University."
+    },
+    {
+        "id": 4727,
+        "prompt": "What training is provided for competitive exams?",
+        "completion": "The college offers training programs for exams like GATE, GRE, and campus recruitment tests."
+    },
+    {
+        "id": 4728,
+        "prompt": "What is the purpose of the startup incubation center?",
+        "completion": "The startup incubation center supports students with innovative ideas, providing mentorship and resources to develop startups."
+    },
+    {
+        "id": 4729,
+        "prompt": "Are there language learning facilities for international students?",
+        "completion": "Yes, Matoshri College offers language support and cultural orientation for international students."
+    },
+    {
+        "id": 4730,
+        "prompt": "What is the role of the Cultural Committee?",
+        "completion": "The Cultural Committee organizes events like annual gatherings, talent shows, and festivals to encourage students' artistic and cultural development."
+    },
+    {
+        "id": 4731,
+        "prompt": "What is the purpose of the Parent-Teacher Meet?",
+        "completion": "The Parent-Teacher Meet allows parents to discuss their ward's academic performance and overall development with faculty members."
+    },
+    {
+        "id": 4732,
+        "prompt": "What types of projects are undertaken by the Civil Engineering department?",
+        "completion": "Projects include design and analysis of structures, sustainable construction techniques, and environmental impact assessments."
+    },
+    {
+        "id": 4733,
+        "prompt": "Does the college have a digital library?",
+        "completion": "Yes, Matoshri College offers a digital library with access to e-books, journals, and research papers."
+    },
+    {
+        "id": 4734,
+        "prompt": "What is the average placement percentage at Matoshri College?",
+        "completion": "The average placement percentage varies by department but typically ranges between 75% to 90%."
+    },
+    {
+        "id": 4735,
+        "prompt": "What facilities are available for differently-abled students?",
+        "completion": "The college provides ramps, elevators, and accessible restrooms for differently-abled students."
+    },
+    {
+        "id": 4736,
+        "prompt": "What programming languages are taught in the Computer Engineering department?",
+        "completion": "Programming languages like Python, Java, C++, and SQL are taught in the Computer Engineering department."
+    },
+    {
+        "id": 4737,
+        "prompt": "Does the college have a research publication?",
+        "completion": "Yes, Matoshri College publishes research articles and conference proceedings through its R&D Cell."
+    },
+    {
+        "id": 4738,
+        "prompt": "What activities are conducted during the induction program for new students?",
+        "completion": "The induction program includes orientation sessions, ice-breaking activities, and campus tours to familiarize students with the college."
+    },
+    {
+        "id": 4739,
+        "prompt": "What is the function of the NSS unit?",
+        "completion": "The NSS unit engages students in community service activities like blood donation camps, tree plantations, and rural development programs."
+    },
+    {
+        "id": 4740,
+        "prompt": "Are internships mandatory for students?",
+        "completion": "Yes, internships are mandatory as part of the curriculum to provide industry exposure and practical experience."
+    },
+    {
+        "id": 4741,
+        "prompt": "What software tools are used in the Mechanical Engineering department?",
+        "completion": "Software tools like AutoCAD, SolidWorks, and ANSYS are commonly used in the Mechanical Engineering department."
+    },
+    {
+        "id": 4742,
+        "prompt": "What is the intake capacity for the Electrical Engineering program?",
+        "completion": "The intake capacity for the Electrical Engineering program is 60 students."
+    },
+    {
+        "id": 4743,
+        "prompt": "Does the college conduct skill development workshops?",
+        "completion": "Yes, Matoshri College conducts skill development workshops in areas like coding, soft skills, and advanced technologies."
+    },
+    {
+        "id": 4744,
+        "prompt": "What is the process for applying for a transfer certificate?",
+        "completion": "Students can apply for a transfer certificate by submitting a formal application and clearing any dues with the administration."
+    },
+    {
+        "id": 4745,
+        "prompt": "What is the role of the Sports Committee?",
+        "completion": "The Sports Committee organizes sports tournaments, maintains facilities, and promotes physical fitness among students."
+    },
+    {
+        "id": 4746,
+        "prompt": "Does the college have collaborations with foreign universities?",
+        "completion": "Yes, Matoshri College has collaborations with foreign universities for research, student exchange, and academic programs."
+    },
+    {
+        "id": 4747,
+        "prompt": "What is the role of the Placement Preparation Cell?",
+        "completion": "The Placement Preparation Cell trains students in aptitude, communication, and technical skills to enhance their employability."
+    },
+    {
+        "id": 4748,
+        "prompt": "What is the scope of the Artificial Intelligence and Data Science program?",
+        "completion": "The program focuses on machine learning, data analytics, and AI applications, preparing students for careers in cutting-edge industries."
+    },
+    {
+        "id": 4749,
+        "prompt": "How does the college support entrepreneurship?",
+        "completion": "The college supports entrepreneurship through its incubation center, mentorship programs, and startup funding opportunities."
+    },
+    {
+        "id": 4750,
+        "prompt": "What is the purpose of the Feedback System at Matoshri College?",
+        "completion": "The Feedback System collects input from students, parents, and faculty to improve academic and administrative practices."
+    },
+    {
+        "id": 4751,
+        "prompt": "Does the college provide transportation facilities?",
+        "completion": "Yes, Matoshri College offers transportation facilities for students and staff with buses covering nearby areas."
+    },
+    {
+        "id": 4752,
+        "prompt": "What co-curricular activities are available for students?",
+        "completion": "Co-curricular activities include technical seminars, coding contests, paper presentations, and project exhibitions."
+    },
+    {
+        "id": 4753,
+        "prompt": "Does Matoshri College provide hostel facilities?",
+        "completion": "Yes, the college provides separate hostel facilities for boys and girls with amenities like Wi-Fi, mess, and recreation rooms."
+    },
+    {
+        "id": 4754,
+        "prompt": "What kind of projects are supported by the Incubation Center?",
+        "completion": "The Incubation Center supports projects in fields like technology, renewable energy, and AI, offering mentorship and funding."
+    },
+    {
+        "id": 4755,
+        "prompt": "What is the intake capacity for the Artificial Intelligence and Data Science program?",
+        "completion": "The intake capacity for the Artificial Intelligence and Data Science program is 60 students."
+    },
+    {
+        "id": 4756,
+        "prompt": "Does the college organize guest lectures?",
+        "completion": "Yes, Matoshri College regularly organizes guest lectures by industry experts and academicians to enhance learning."
+    },
+    {
+        "id": 4757,
+        "prompt": "What extracurricular activities are encouraged at Matoshri College?",
+        "completion": "Extracurricular activities include cultural events, sports, drama, music, and social service initiatives."
+    },
+    {
+        "id": 4758,
+        "prompt": "How does the college support slow learners?",
+        "completion": "The college provides remedial classes, additional tutorials, and mentorship programs to support slow learners."
+    },
+    {
+        "id": 4759,
+        "prompt": "What is the role of the E-Learning Center?",
+        "completion": "The E-Learning Center provides access to online courses, virtual labs, and digital learning resources for students."
+    },
+    {
+        "id": 4760,
+        "prompt": "Does the college have an Entrepreneurship Club?",
+        "completion": "Yes, the Entrepreneurship Club fosters innovation and entrepreneurial spirit among students through workshops and competitions."
+    },
+    {
+        "id": 4761,
+        "prompt": "What is the duration of the B.E. programs?",
+        "completion": "The duration of the B.E. programs is four years, divided into eight semesters."
+    },
+    {
+        "id": 4762,
+        "prompt": "What types of scholarships are available for students?",
+        "completion": "Scholarships include government schemes, merit-based scholarships, and financial assistance for economically weaker students."
+    },
+    {
+        "id": 4763,
+        "prompt": "What is the role of the Language Lab?",
+        "completion": "The Language Lab helps students improve their communication skills, particularly in English, using interactive tools."
+    },
+    {
+        "id": 4764,
+        "prompt": "What are the qualifications of Prof. Dr. Nilesh Patil?",
+        "completion": "Prof. Dr. Nilesh Patil holds a Ph.D. in Mechanical Engineering and specializes in Design Engineering."
+    },
+    {
+        "id": 4765,
+        "prompt": "What is the college\u2019s policy on academic integrity?",
+        "completion": "Matoshri College promotes academic integrity by enforcing strict policies against plagiarism and cheating in exams."
+    },
+    {
+        "id": 4766,
+        "prompt": "What is the purpose of the Technical Clubs?",
+        "completion": "Technical Clubs allow students to engage in hands-on projects, coding challenges, and innovation-driven activities."
+    },
+    {
+        "id": 4767,
+        "prompt": "What sports tournaments are organized annually?",
+        "completion": "The college organizes tournaments for cricket, football, badminton, and indoor games like chess and table tennis."
+    },
+    {
+        "id": 4768,
+        "prompt": "How does the college celebrate National Science Day?",
+        "completion": "The college celebrates National Science Day with exhibitions, quizzes, and guest lectures to promote scientific awareness."
+    },
+    {
+        "id": 4769,
+        "prompt": "Does the college offer career counseling services?",
+        "completion": "Yes, Matoshri College provides career counseling services to guide students in choosing the right career paths."
+    },
+    {
+        "id": 4770,
+        "prompt": "How can I get information about the faculty of the Electronics and Telecommunication department?",
+        "completion": "Faculty details for the Electronics and Telecommunication department can be found on the department's official webpage."
+    },
+    {
+        "id": 4771,
+        "prompt": "Do the faculty members in the IT department attend conferences?",
+        "completion": "Yes, faculty members from the IT department regularly attend national and international conferences to stay updated with industry trends."
+    },
+    {
+        "id": 4772,
+        "prompt": "What is the role of faculty in shaping the curriculum?",
+        "completion": "Faculty members contribute to shaping the curriculum by providing industry insights and integrating new technological developments."
+    },
+    {
+        "id": 4773,
+        "prompt": "Is there a faculty council at Matoshri College of Engineering?",
+        "completion": "Yes, the faculty council at Matoshri College of Engineering plays a key role in decision-making and policy implementation."
+    },
+    {
+        "id": 4774,
+        "prompt": "Can students attend seminars hosted by faculty members?",
+        "completion": "Yes, seminars hosted by faculty members are open to students, and they are encouraged to attend for knowledge enhancement."
+    },
+    {
+        "id": 4775,
+        "prompt": "How can I reach out to faculty for guidance on projects?",
+        "completion": "You can reach out to faculty members via email or visit them during their office hours for project guidance."
+    },
+    {
+        "id": 4776,
+        "prompt": "Are there any faculty members with industry experience?",
+        "completion": "Yes, many faculty members have industry experience and bring practical insights to the academic setting."
+    },
+    {
+        "id": 4777,
+        "prompt": "How does the college support faculty research initiatives?",
+        "completion": "The college supports faculty research initiatives by providing grants, access to research facilities, collaborations with industries, and opportunities for presenting research in conferences."
+    },
+    {
+        "id": 4778,
+        "prompt": "What is the role of the Head of Department at Matoshri College of Engineering?",
+        "completion": "The Head of Department (HOD) oversees the academic and administrative activities of the department, including curriculum planning, faculty performance, and student progress."
+    },
+    {
+        "id": 4779,
+        "prompt": "Who is responsible for the admissions process in the engineering faculty?",
+        "completion": "The admissions process is typically managed by the Admission Committee, with faculty involvement in evaluating applications and conducting interviews."
+    },
+    {
+        "id": 4780,
+        "prompt": "What is the role of faculty advisors in the academic structure?",
+        "completion": "Faculty advisors provide academic guidance to students, help them with course selection, and monitor their academic progress throughout their studies."
+    },
+    {
+        "id": 4781,
+        "prompt": "What is the role of a teaching assistant at Matoshri College of Engineering?",
+        "completion": "Teaching assistants (TAs) support faculty members in conducting classes, grading assignments, assisting students during labs, and offering additional academic help."
+    },
+    {
+        "id": 4782,
+        "prompt": "Who manages the college\u2019s research initiatives?",
+        "completion": "The Research and Development (R&D) Cell at the college, along with faculty members, manages research projects, funding, and collaborations with industries."
+    },
+    {
+        "id": 4783,
+        "prompt": "What is the role of the faculty coordinator for co-curricular activities?",
+        "completion": "The faculty coordinator for co-curricular activities organizes and oversees extracurricular events, including technical fests, cultural programs, and sports competitions."
+    },
+    {
+        "id": 4784,
+        "prompt": "How is the role of the academic coordinator defined?",
+        "completion": "The academic coordinator is responsible for ensuring the smooth execution of the academic schedule, monitoring faculty performance, and ensuring the curriculum is followed."
+    },
+    {
+        "id": 4785,
+        "prompt": "Who handles the placement activities for students?",
+        "completion": "The Placement Officer and the Placement Cell coordinate all placement activities, including interactions with companies, organizing interviews, and preparing students for job placements."
+    },
+    {
+        "id": 4786,
+        "prompt": "What is the role of the faculty in the placement process?",
+        "completion": "Faculty members assist in the placement process by mentoring students, organizing mock interviews, providing industry insights, and guiding students in resume building."
+    },
+    {
+        "id": 4787,
+        "prompt": "How are faculty members evaluated for promotions?",
+        "completion": "Faculty members are evaluated based on their academic performance, research contributions, teaching effectiveness, student feedback, and industry experience."
+    },
+    {
+        "id": 4788,
+        "prompt": "What role does the administrative staff play at Matoshri College of Engineering?",
+        "completion": "Administrative staff manage the day-to-day operations of the college, including handling student records, scheduling, and coordinating with faculty and students."
+    },
+    {
+        "id": 4789,
+        "prompt": "How does the library staff contribute to student learning?",
+        "completion": "The library staff assists students in accessing resources, maintaining the library collection, organizing workshops, and ensuring the availability of study materials."
+    },
+    {
+        "id": 4790,
+        "prompt": "Who manages the online academic portals at the college?",
+        "completion": "The IT department, under the supervision of the chief IT officer, manages the college's online academic portals, including course material distribution, attendance records, and student databases."
+    },
+    {
+        "id": 4791,
+        "prompt": "What role do laboratory assistants play in engineering departments?",
+        "completion": "Laboratory assistants help in setting up experiments, ensuring safety protocols are followed, and assisting students during practical sessions in labs."
+    },
+    {
+        "id": 4792,
+        "prompt": "What is the role of the student counselor in Matoshri College of Engineering?",
+        "completion": "Student counselors provide emotional and academic support, help manage stress, and offer career guidance to students who need assistance with personal or academic challenges."
+    },
+    {
+        "id": 4793,
+        "prompt": "What is the role of the office staff in the academic process?",
+        "completion": "Office staff handle administrative duties like maintaining student records, coordinating schedules, processing documents, and supporting faculty and students with logistical needs."
+    },
+    {
+        "id": 4794,
+        "prompt": "How does the faculty contribute to the college's curriculum development?",
+        "completion": "Faculty members collaborate with the curriculum development committee to design, update, and align the curriculum with industry trends and technological advancements."
+    },
+    {
+        "id": 4795,
+        "prompt": "What is the role of the sports coordinator at Matoshri College of Engineering?",
+        "completion": "The sports coordinator organizes and promotes sports events and competitions, ensuring students participate in physical activities and maintain a healthy lifestyle."
+    },
+    {
+        "id": 4796,
+        "prompt": "Who is responsible for managing faculty performance reviews?",
+        "completion": "Faculty performance reviews are managed by the academic committee, which collects student feedback, conducts peer reviews, and evaluates teaching effectiveness."
+    },
+    {
+        "id": 4797,
+        "prompt": "What role do administrative officers play in the management of student affairs?",
+        "completion": "Administrative officers are responsible for addressing student concerns, managing academic records, handling grievances, and assisting with various student-related matters."
+    },
+    {
+        "id": 4798,
+        "prompt": "How are faculty members supported in their research endeavors?",
+        "completion": "Faculty members are supported with research grants, access to research facilities, and collaborations with industries and academic institutions."
+    },
+    {
+        "id": 4799,
+        "prompt": "Who is responsible for organizing industry visits for students?",
+        "completion": "The faculty members and the Placement Cell coordinate industry visits, ensuring that students gain real-world insights and exposure to the latest industry practices."
+    },
+    {
+        "id": 4800,
+        "prompt": "What is the role of the head of the administration department?",
+        "completion": "The head of administration manages all non-academic operations, including human resources, student admissions, and institutional regulations."
+    },
+    {
+        "id": 4801,
+        "prompt": "What responsibilities do faculty members have beyond teaching?",
+        "completion": "In addition to teaching, faculty members are involved in research, mentoring students, organizing events, and contributing to curriculum development."
+    },
+    {
+        "id": 4802,
+        "prompt": "Does Matoshri College have a staff welfare officer?",
+        "completion": "Yes, the staff welfare officer is responsible for addressing faculty and staff concerns, ensuring their well-being, and organizing welfare programs."
+    },
+    {
+        "id": 4803,
+        "prompt": "Who is responsible for overseeing the implementation of college policies?",
+        "completion": "The college management and principal are responsible for overseeing the implementation of academic, administrative, and operational policies."
+    },
+    {
+        "id": 4804,
+        "prompt": "What role does the faculty play in promoting research culture at the college?",
+        "completion": "Faculty members actively participate in research projects, collaborate with research organizations, and encourage students to engage in research activities."
+    },
+    {
+        "id": 4805,
+        "prompt": "How does the administrative staff support the examination process?",
+        "completion": "The administrative staff manages examination schedules, invigilator assignments, result processing, and distribution of marksheets."
+    },
+    {
+        "id": 4806,
+        "prompt": "What is the role of faculty in student assessment?",
+        "completion": "Faculty members design assessments, grade assignments and exams, and provide feedback to students to improve their academic performance."
+    },
+    {
+        "id": 4807,
+        "prompt": "Who ensures the upkeep of campus facilities?",
+        "completion": "The campus facilities are managed by the facilities management team, who ensure that all physical infrastructure, including classrooms and labs, are well-maintained."
+    },
+    {
+        "id": 4808,
+        "prompt": "How are student grievances addressed by the staff?",
+        "completion": "Student grievances are addressed by the student welfare committee, which works with faculty and administrative staff to resolve any issues promptly."
+    },
+    {
+        "id": 4809,
+        "prompt": "What role does the HR department play in staff recruitment?",
+        "completion": "The HR department is responsible for recruiting staff, conducting interviews, managing hiring processes, and ensuring the selection of qualified candidates."
+    },
+    {
+        "id": 4810,
+        "prompt": "Who is the principal of Matoshri College of Engineering & Research Centre?",
+        "completion": "Dr.G.K.Kharate serves as the principal of Matoshri College of Engineering & Research Centre."
+    },
+    {
+        "id": 4811,
+        "prompt": "Hello",
+        "completion": "Hii.....How can help you?"
     }
 ]
